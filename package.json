@@ -1,8 +1,8 @@
 {
-	"name": "Ghost",
-	"version": "69.69.69",
-	"description": "A simple Facebook Messenger bot made by Ghost",
-	"main": "CLOVERION.js",
+	"name": "Envy兄",
+	"version": "19.07.02",
+	"description": "A simple Facebook Messenger bot made by Luna",
+	"main": "Envy兄..js",
 	"scripts": {
 		"start": "node index",
 		"login": "node login",
